@@ -1,0 +1,778 @@
+[24-Oct-2025 01:05:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:05:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:05:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:06:36 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:06:36 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:06:36 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:08:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:08:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:08:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:14:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:14:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:14:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:14:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:14:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:14:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:19:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:19:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:19:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:20:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:20:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:20:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:20:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 01:20:13 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 01:20:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(12): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 01:20:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:20:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:20:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:20:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 01:20:23 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 01:20:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(12): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 01:23:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:23:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:23:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:23:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:23:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:23:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:23:23 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:23:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:23:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:23:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:23:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:23:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:23:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:24:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:24:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:24:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:24:09 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:24:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:24:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:24:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:24:21 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:25:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:25:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:25:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:26:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:26:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:26:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:26:03 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:26:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:26:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:26:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:26:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 17
+[24-Oct-2025 01:26:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 20
+[24-Oct-2025 01:26:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:26:12 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:28:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:28:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:28:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:28:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:28:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:28:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:28:24 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:33:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:33:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:33:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:33:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:33:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:33:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:33:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:33:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:33:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:33:43 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:35:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:35:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:35:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:35:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:35:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:35:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:35:57 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:36:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:36:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:36:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:36:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:36:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:36:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:36:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:36:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:36:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:36:17 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:40:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:40:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:40:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:40:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:40:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:40:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:40:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:40:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:40:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:40:39 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 01:41:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:41:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:41:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 01:54:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 01:54:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 01:54:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:06:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:06:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:06:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:07:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:07:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:07:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:08:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:08:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:08:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:09:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:09:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:09:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:09:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:09:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:09:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:28:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:28:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:28:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:35:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:35:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:35:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:35:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:35:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:35:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:35:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:35:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:35:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:40:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:40:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:40:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:42:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:42:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:42:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:45:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:45:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:45:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:47:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:47:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:47:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:47:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 02:47:39 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 02:47:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 02:48:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:48:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:48:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:48:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 02:48:07 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 02:48:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 02:48:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:48:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:48:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 02:56:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 02:56:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 02:56:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:00:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:00:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:00:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:06:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:06:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:06:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:11:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:11:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:11:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:13:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:13:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:13:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:15:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:15:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:15:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:18:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:18:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:18:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:33:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:33:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:33:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:34:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:34:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:34:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:36:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:36:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:36:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:38:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:38:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:38:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:38:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:38:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:38:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:39:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:39:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:39:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:42:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:42:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:42:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:43:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:43:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:43:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:45:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:45:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:45:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:46:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:46:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:46:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:47:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:47:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:47:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:47:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 03:47:24 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:47:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:49:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:49:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:49:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:49:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 03:49:11 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:49:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:51:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:51:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:51:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:51:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:51:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:51:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:51:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 03:51:57 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:51:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:52:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:52:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:52:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:52:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 03:52:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 03:52:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 03:52:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 03:52:11 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 03:52:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:05:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:05:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:05:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:05:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 04:05:21 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:05:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:05:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:05:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:05:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:05:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 04:05:45 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:05:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:06:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:06:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:06:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:07:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:07:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:07:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:07:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 2
+[24-Oct-2025 04:07:33 UTC] PHP Warning:  require(../../src/core/security.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/core/security.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(11): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/auth/login.php on line 3
+[24-Oct-2025 04:08:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:08:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:08:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:09:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:09:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:09:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:09:50 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:10:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:10:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:10:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:10:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:10:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:10:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:10:33 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:14:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:14:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:14:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:14:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:14:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:14:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:14:25 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:17:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:17:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:17:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:19:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:19:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:19:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:19:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:20:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:20:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:20:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:20:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:20:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:20:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:24:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:24:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:24:55 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:24:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:24:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:24:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:25:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:25:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:25:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:25:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:25:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:25:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:25:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:27:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:27:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:27:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:29:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:29:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:29:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:30:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:33:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:33:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:33:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:33:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:33:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:33:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:33:26 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:33:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:33:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:33:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:33:35 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:33:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:33:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:33:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:33:39 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 04:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:35:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:35:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:35:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:35:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:35:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:35:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:36:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:36:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:36:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:37:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:37:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:37:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:38:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:38:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:38:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 04:43:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 04:43:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 04:43:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:15:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:15:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:15:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:15:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:15:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:15:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:15:30 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 09:15:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:15:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:15:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:15:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:15:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:15:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:16:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:16:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:16:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:17:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:17:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:17:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:17:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 2
+[24-Oct-2025 09:17:15 UTC] PHP Warning:  require(../../config/db.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 3
+[24-Oct-2025 09:17:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(14): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 3
+[24-Oct-2025 09:17:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:17:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:17:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:17:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 2
+[24-Oct-2025 09:17:29 UTC] PHP Warning:  require(../../config/db.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 3
+[24-Oct-2025 09:17:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(14): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_cliente.php on line 3
+[24-Oct-2025 09:17:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:17:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:17:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:33:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:33:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:33:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 09:53:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 09:53:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 09:53:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 10:15:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 10:15:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 10:15:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:16:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:16:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:16:39 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:28:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:28:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:28:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:29:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:29:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:29:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:29:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:29:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:29:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:29:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:29:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:30:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:30:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:30:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:30:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:30:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:30:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:32:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:32:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:32:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:32:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:32:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:32:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:32:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:32:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:32:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:33:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:33:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:33:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:33:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:33:52 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 11:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:33:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:33:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:33:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:34:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:34:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:34:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:34:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:34:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:34:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:35:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:35:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:35:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 11:35:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 11:35:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 11:35:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:27 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:27 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 12:06:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:30 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 12:06:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:35 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 12:06:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:40 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 12:06:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 12:06:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:17:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:17:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:17:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:17:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:17:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:17:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:18:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:18:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 13:19:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 13:19:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 13:19:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 15:22:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 15:22:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 15:22:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 15:30:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 15:30:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 15:30:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 15:30:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 15:30:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 15:30:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:10:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:11:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:11:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:11:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:11:00 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 19:11:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:11:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:11:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:11:10 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 19:11:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:11:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:11:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:11:15 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 19:14:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:14:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:14:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:14:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:14:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:14:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:14:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:15:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:15:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:15:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[24-Oct-2025 19:15:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[24-Oct-2025 19:15:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[24-Oct-2025 19:15:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 11:27:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 11:27:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 11:27:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 12:46:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 12:46:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 12:46:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 13:37:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 13:37:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 13:37:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:11:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:11:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:11:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:11:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:11:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:11:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:11:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:11:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:11:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:11:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 18:37:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 18:37:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 18:37:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[25-Oct-2025 20:20:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[25-Oct-2025 20:20:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[25-Oct-2025 20:20:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[27-Oct-2025 14:25:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[27-Oct-2025 14:25:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[27-Oct-2025 14:25:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[27-Oct-2025 22:18:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[27-Oct-2025 22:18:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[27-Oct-2025 22:18:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[27-Oct-2025 23:50:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[27-Oct-2025 23:50:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[27-Oct-2025 23:50:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 14:17:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 14:17:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 14:17:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:09 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:10 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[28-Oct-2025 18:48:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 18:48:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 18:48:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 18:48:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 19:41:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 19:41:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 19:41:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 20:49:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 20:49:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 20:49:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[28-Oct-2025 23:40:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[28-Oct-2025 23:40:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[28-Oct-2025 23:40:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[29-Oct-2025 14:28:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[29-Oct-2025 14:28:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[29-Oct-2025 14:28:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[29-Oct-2025 17:57:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[29-Oct-2025 17:57:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[29-Oct-2025 17:57:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[29-Oct-2025 18:11:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[29-Oct-2025 18:11:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[29-Oct-2025 18:11:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[29-Oct-2025 18:25:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[29-Oct-2025 18:25:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[29-Oct-2025 18:25:44 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[29-Oct-2025 18:25:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[29-Oct-2025 18:25:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[29-Oct-2025 18:25:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[30-Oct-2025 11:37:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[30-Oct-2025 11:37:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[30-Oct-2025 11:37:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:33:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:33:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:33:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:33:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:33:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:33:45 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:33:45 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[01-Nov-2025 01:33:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:33:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:33:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:33:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:33:53 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[01-Nov-2025 01:33:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:33:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:33:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  Constant BASE_URL already defined in /home/saojoaod/public_html/oficina_inteligente/config/db.php on line 6
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:34:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:43:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:43:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:43:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:43:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:43:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:43:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:43:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:43:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:43:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:43:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 22
+[01-Nov-2025 01:43:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 24
+[01-Nov-2025 01:43:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/saojoaod/public_html/oficina_inteligente/src/core/security.php on line 26
+[01-Nov-2025 01:43:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/saojoaod/public_html/oficina_inteligente/index.php on line 2) in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_servico.php on line 2
+[01-Nov-2025 01:43:57 UTC] PHP Warning:  require(../../config/db.php): Failed to open stream: No such file or directory in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_servico.php on line 3
+[01-Nov-2025 01:43:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_servico.php:3
+Stack trace:
+#0 /home/saojoaod/public_html/oficina_inteligente/index.php(17): require()
+#1 {main}
+  thrown in /home/saojoaod/public_html/oficina_inteligente/src/actions/save_servico.php on line 3
