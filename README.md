@@ -1,3 +1,16 @@
+projeto integrado unifeob - modulo 8 - trimestre novembro/2025
+
+segurança em sistemas computacionais
+inteligência artificial
+
+participantes do grupo
+Eduardo Corbano Lourenço, RA 24001663
+Elton Mazzali Pinto, RA 24002287
+Joice Grazieli Vieira, RA 24002213
+Kathlyn Rose Silveira, RA 24002286
+
+
+
 Oficina Inteligente
 Oficina Inteligente é um sistema web de gestão para oficinas mecânicas e centros automotivos. O objetivo do projeto é facilitar o controle de ordens de serviço, gestão de clientes, veículos e estoque de peças, oferecendo uma interface simples e eficiente para o dia a dia da oficina.
 
